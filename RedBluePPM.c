@@ -1,14 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* 
- *   This is a c program to create a red and blue plain pixel map.
- *   Usage: 
- *   another comment added on 10/14
- * 
- *   RedBluePPM OutFileName numRows numCols
- * 
- *   Here our program takes in an outfile name, and two arguments for
- *   the rows and columns for the size of the image to produce. 
+ *   This is Tyler Coulter and I am adding a comment to this code
 */ 
 
 int main(int argc,    // This is the number of things passed into this function.  
